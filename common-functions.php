@@ -125,3 +125,9 @@ function activate() {}
 function deactivate() {}
 function save() {}
 function update() {}
+function allow_ms_parent_redirect() {}
+function favicon_link() {}
+function theme_special_nav() {}
+function my_child_theme_setup() {}
+function header_style() {}
+function admin_header_style() {}

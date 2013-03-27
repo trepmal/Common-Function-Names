@@ -119,4 +119,9 @@ function clear_transient_on_logout() {}
 function add_recipe_counts() {}
 function wpautop_control_menu() {}
 function kill_feed_rewrites() {}
-function install(){}
+function install() {}
+function uninstall() {}
+function activate() {}
+function deactivate() {}
+function save() {}
+function update() {}

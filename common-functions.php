@@ -131,3 +131,6 @@ function theme_special_nav() {}
 function my_child_theme_setup() {}
 function header_style() {}
 function admin_header_style() {}
+function my_plugin_init() {}
+function myplugininit() {}
+function display_shortcode() {}

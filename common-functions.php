@@ -134,3 +134,9 @@ function admin_header_style() {}
 function my_plugin_init() {}
 function myplugininit() {}
 function display_shortcode() {}
+function wptuts_scripts_basic() {}
+function wptuts_scripts_with_jquery() {}
+function wptuts_scripts_with_the_lot() {}
+function wptuts_scripts_important() {}
+function wptuts_scripts_load_cdn() {}
+function wptuts_styles_with_the_lot() {}

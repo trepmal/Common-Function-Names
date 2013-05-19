@@ -140,3 +140,4 @@ function wptuts_scripts_with_the_lot() {}
 function wptuts_scripts_important() {}
 function wptuts_scripts_load_cdn() {}
 function wptuts_styles_with_the_lot() {}
+function example_load_widgets() {}

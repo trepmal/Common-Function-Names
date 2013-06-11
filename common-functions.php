@@ -141,4 +141,9 @@ function wptuts_scripts_important() {}
 function wptuts_scripts_load_cdn() {}
 function wptuts_styles_with_the_lot() {}
 function example_load_widgets() {}
-function importd() {}
+function import() {}
+function xxxx() {}
+function my_login_css() {}
+function my_login_logo_url() {}
+function my_login_logo_url_title() {}
+function my_login_logofunction () {}

@@ -81,7 +81,7 @@ function comment_inserted() {}
 function add_my_rss_node() {}
 function add_my_custom_field_node() {}
 function Init_theme() {}
-function myplugin_setup_options () {}
+function myplugin_setup_options() {}
 function myplugin_admin_footer() {}
 function prefix_add_my_stylesheet() {}
 function my_plugin_admin_init() {}
@@ -146,4 +146,5 @@ function xxxx() {}
 function my_login_css() {}
 function my_login_logo_url() {}
 function my_login_logo_url_title() {}
-function my_login_logofunction () {}
+function my_login_logofunction() {}
+function my_pre_get_posts() {}
